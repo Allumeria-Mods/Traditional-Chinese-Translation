@@ -1,0 +1,2 @@
+# Published translation snapshots preserve the exact bytes shipped in releases.
+content/**/keys.txt whitespace=-trailing-space

@@ -1,0 +1,9 @@
+{
+  "id": "community.zh-tw",
+  "version": "1.0.0",
+  "apiVersion": "1.x",
+  "entryAssembly": "Allumeria.Community.ZhTW.dll",
+  "entryType": "Allumeria.Community.ZhTW.ZhTwCommunityMod",
+  "usesUnsafeApi": false,
+  "requires": []
+}

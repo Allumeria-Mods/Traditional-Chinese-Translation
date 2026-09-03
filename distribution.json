@@ -1,11 +1,26 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "product": "Traditional-Chinese-Translation",
-  "repositoryRole": "distribution-only",
+  "repositoryRole": "public-translation-content-and-distribution",
   "channel": "stable",
   "currentRelease": "1.0.0",
   "releaseTag": "v1.0.0",
   "communityApiVersion": "1.x",
+  "publicContent": {
+    "gameBuild": "0.15.5",
+    "root": "content/0.15.5",
+    "files": {
+      "keys.txt": {
+        "sha256": "1d31e4935a514ffd4f2cbced03b4f01785f268dfe0752f42842e6d90b0e14b68"
+      },
+      "info.json": {
+        "sha256": "717f8ac57c96801893c55ddd6ec8281fc9e148aa30defc65ffa64d2c0de38351"
+      },
+      "community-mod.json": {
+        "sha256": "3ca4ca1510bd1a37952ddb1905b6c8b3e1d5a8922376ef7a0b5190168c9808b8"
+      }
+    }
+  },
   "builds": {
     "0.15.5": {
       "artifact": "Allumeria-Traditional-Chinese-Translation-0.15.5.zip",
